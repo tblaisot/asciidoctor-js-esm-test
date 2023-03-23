@@ -1,0 +1,13 @@
+{
+  "name": "@tblaisot/asciidoctor-js-templates",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "exports": "./index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@asciidoctor/core": "^2.2.6",
+    "asciidoctor": "^2.2.6"
+  }
+}
